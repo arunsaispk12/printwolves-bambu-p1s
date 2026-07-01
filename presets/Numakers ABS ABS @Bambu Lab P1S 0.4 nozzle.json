@@ -69,7 +69,7 @@
         "30"
     ],
     "fan_max_speed": [
-        "60"
+        "80"
     ],
     "fan_min_speed": [
         "10"
@@ -125,8 +125,8 @@
         "1"
     ],
     "filament_max_volumetric_speed": [
-        "10",
-        "16"
+        "22",
+        "22"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -268,8 +268,8 @@
         "0"
     ],
     "nozzle_temperature": [
-        "260",
-        "270"
+        "265",
+        "265"
     ],
     "nozzle_temperature_initial_layer": [
         "260",
