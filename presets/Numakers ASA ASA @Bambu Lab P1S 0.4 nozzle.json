@@ -24,10 +24,10 @@
         "70"
     ],
     "cool_plate_temp": [
-        "100"
+        "0"
     ],
     "cool_plate_temp_initial_layer": [
-        "100"
+        "0"
     ],
     "counter_coef_1": [
         "0"
@@ -60,16 +60,16 @@
         "0"
     ],
     "eng_plate_temp": [
-        "100"
+        "90"
     ],
     "eng_plate_temp_initial_layer": [
-        "100"
+        "90"
     ],
     "fan_cooling_layer_time": [
         "35"
     ],
     "fan_max_speed": [
-        "35"
+        "80"
     ],
     "fan_min_speed": [
         "10"
@@ -125,8 +125,8 @@
         "1"
     ],
     "filament_max_volumetric_speed": [
-        "6",
-        "18"
+        "12",
+        "12"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -250,10 +250,10 @@
         "0.088"
     ],
     "hot_plate_temp": [
-        "100"
+        "90"
     ],
     "hot_plate_temp_initial_layer": [
-        "100"
+        "90"
     ],
     "impact_strength_z": [
         "4.9"
@@ -268,12 +268,12 @@
         "0"
     ],
     "nozzle_temperature": [
-        "270",
-        "270"
+        "260",
+        "260"
     ],
     "nozzle_temperature_initial_layer": [
-        "270",
-        "270"
+        "260",
+        "260"
     ],
     "nozzle_temperature_range_high": [
         "280"
@@ -325,10 +325,10 @@
         "100"
     ],
     "textured_plate_temp": [
-        "100"
+        "90"
     ],
     "textured_plate_temp_initial_layer": [
-        "100"
+        "90"
     ],
     "version": "2.3.0.4",
     "volumetric_speed_coefficients": [
