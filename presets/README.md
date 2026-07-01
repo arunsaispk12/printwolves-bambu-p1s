@@ -19,6 +19,8 @@
 
 ## Available P1S Profile File IDs
 
+> **Abbreviations:** PETG-HS = High Speed · PETG-CF = Carbon Fibre
+
 | Filament | File ID | Download |
 |----------|---------|----------|
 | PLA+ | `3Fs0pcJHu8u37Si47aMH` | wiki.numakers.com/printing-tips/printer-profiles |
@@ -26,12 +28,14 @@
 | PLA Matte | `H1iJfcoa7SUMtzllihIV` | wiki.numakers.com/printing-tips/printer-profiles |
 | PLA CF | `mc9jE5eiFYb8uafgPBRB` | wiki.numakers.com/printing-tips/printer-profiles |
 | PLA Wood | `IoADtlsOCCvhqjmSRYXW` | wiki.numakers.com/printing-tips/printer-profiles |
-| PETG / PETG Translucent | `zwgyAP7UrnG5huwJo4Ay` | wiki.numakers.com/printing-tips/printer-profiles |
-| PETG CF | `JSrbJs329jJz59FD3azN` | wiki.numakers.com/printing-tips/printer-profiles |
+| PETG / PETG Translucent ¹ | `zwgyAP7UrnG5huwJo4Ay` | wiki.numakers.com/printing-tips/printer-profiles |
+| PETG-CF (Carbon Fibre) | `JSrbJs329jJz59FD3azN` | wiki.numakers.com/printing-tips/printer-profiles |
 | ABS | `XPf7XuRqv3GYjdx507Gz` | wiki.numakers.com/printing-tips/printer-profiles |
 | ASA | `aqy7cy3fdiEHAvPlrbkt` | wiki.numakers.com/printing-tips/printer-profiles |
 
 > **Note:** PLA, PLA Metallic, PETG-HS, PLA Marble, PLA Starlight, PLA Glow — if no dedicated profile ID is listed, use the nearest base profile (e.g., PLA+ profile for PLA / PLA Metallic; PETG profile for PETG-HS) and apply your calibrated values on top.
+
+> ¹ **NuMakers does not sell a standalone "standard PETG"** — their PETG range is PETG-HS (High Speed), PETG Translucent, and PETG-CF (Carbon Fibre). The PETG base profile (`zwgyAP7UrnG5huwJo4Ay`) is the shared foundation for PETG-HS and PETG Translucent, and is also suitable for third-party standard PETG filaments. Source: [NuMakers PETG Bambu Studio guide](https://india.numakers.com/blogs/news/petg-bambu-studio)
 
 ---
 

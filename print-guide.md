@@ -16,9 +16,10 @@
 | PLA Wood | Textured PEI | — | Optional glue stick |
 | PLA Metallic | Textured PEI | — | Optional |
 | PLA CF | Textured PEI | — | Optional |
-| PETG-HS | Textured PEI or High Temp | Cool Plate (sticks too well) | Optional — thin layer glue stick prevents over-adhesion |
+| PETG | Textured PEI or High Temp | Cool Plate (sticks too well) | Thin layer glue stick prevents over-adhesion |
+| PETG-HS (High Speed) | Textured PEI or High Temp | Cool Plate (sticks too well) | Optional — thin layer glue stick prevents over-adhesion |
 | PETG Translucent | Textured PEI or High Temp | Cool Plate | Optional thin glue stick |
-| PETG CF | Textured PEI | Cool Plate | Optional |
+| PETG-CF (Carbon Fibre) | Textured PEI | Cool Plate | Optional |
 | ABS | Engineering Plate or High Temp | ❌ Cool Plate / PLA Plate | ABS slurry or glue stick for large prints |
 | ASA | Engineering Plate or High Temp | ❌ Cool Plate / PLA Plate | Glue stick recommended |
 
@@ -93,7 +94,17 @@
 - Use at least 3 perimeters for structural parts
 - Sand or prime the surface to fill the rough texture if finish is critical
 
-### PETG-HS
+### PETG
+
+> **Abbreviations:** PETG-HS = High Speed · PETG-CF = Carbon Fibre
+
+- Apply thin glue stick layer to PEI to avoid sheet damage on removal
+- Fan at 100% — per NuMakers PETG base guide, full cooling is recommended
+- Apply thin glue stick to Textured PEI to prevent over-adhesion on removal
+- Stringing more common than PLA — increase retraction slightly and reduce travel speed
+- NuMakers does not sell a standalone PETG — this profile is the PETG base used for PETG Translucent and is suitable for third-party standard PETG
+
+### PETG-HS (High Speed)
 - Apply thin glue stick layer to PEI to avoid sheet damage on removal
 - Fan at 100% as per NuMakers Bambu Studio profile — PETG-HS is engineered to handle active cooling at speed
 - If you notice layer cracking or poor adhesion, reduce fan to 50% as a diagnostic step
@@ -106,7 +117,7 @@
 - Use 0% infill with 3+ perimeters for light-pipe or lens applications
 - Fan at 100% for maximum clarity
 
-### PETG CF
+### PETG-CF (Carbon Fibre)
 - **Hardened nozzle mandatory**
 - Reduce fan speed (30–40%) — over-cooling causes layer delamination
 - Structural parts: use 4+ perimeters, 40%+ infill

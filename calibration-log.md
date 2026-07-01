@@ -27,7 +27,7 @@
 | | ABS | | 0.4 mm | | | | | 260 | 90 |
 | | ASA | | 0.4 mm | | | | | 260 | 90 |
 | | PLA CF | | 0.4 mm | | | | | 220 | 40 |
-| | PETG CF | | 0.4 mm | | | | | 240 | 70 |
+| | PETG-CF | | 0.4 mm | | | | | 240 | 70 |
 
 > Add rows as needed. Copy a blank row below.
 
@@ -45,8 +45,9 @@
 | PLA / PLA+ / PLA Matte / Silk | 1.0227 | 1.00 – 1.05 |
 | PLA Wood / Glow / Starlight / Marble / Metallic | 1.0227 | 1.00 – 1.08 |
 | PLA CF | Use generic PLA CF profile | 0.95 – 1.05 |
-| PETG-HS / PETG Translucent | 1.0227 | 1.00 – 1.05 |
-| PETG CF | 1.00 | 0.95 – 1.05 |
+| PETG / PETG Translucent | 1.0227 | 1.00 – 1.05 |
+| PETG-HS (High Speed) / PETG Translucent | 1.0227 | 1.00 – 1.05 |
+| PETG-CF (Carbon Fibre) | 1.00 | 0.95 – 1.05 |
 | ABS | 0.95 | 0.90 – 0.98 |
 | ASA | 0.95 | 0.90 – 0.98 |
 
@@ -60,8 +61,9 @@
 | PLA Silk / Dual-Tri Silk | 0.040 | 0.020 – 0.060 |
 | PLA CF | 0.025 | 0.015 – 0.040 |
 | PLA Wood / Glow / Starlight / Marble | 0.035 | 0.020 – 0.060 |
-| PETG-HS / PETG Translucent | 0.060 | 0.040 – 0.080 |
-| PETG CF | 0.040 | 0.030 – 0.060 |
+| PETG / PETG Translucent | 0.060 | 0.040 – 0.080 |
+| PETG-HS (High Speed) / PETG Translucent | 0.060 | 0.040 – 0.080 |
+| PETG-CF (Carbon Fibre) | 0.040 | 0.030 – 0.060 |
 | ABS | 0.040 | 0.030 – 0.060 |
 | ASA | 0.045 | 0.030 – 0.070 |
 

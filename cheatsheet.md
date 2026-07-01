@@ -63,15 +63,18 @@
 
 ### PETG
 
+> **Abbreviations:** PETG-HS = High Speed · PETG-CF = Carbon Fibre
+
 | Filament | Nozzle Temp | Bed Temp (Textured PEI) | Flow Ratio | Max Vol Speed | Fan Speed | AUX Fan | Enclosure | Drying |
 |----------|-------------|------------------------|------------|--------------|-----------|---------|-----------|--------|
-| **PETG-HS** | 230 / 230 °C ² | 65 / 65 °C | 1.0227 | 15 mm³/s | 100% | 70% | Not required | 70°C / 2–4 hr |
+| **PETG** | 230 / 230 °C | 65 / 65 °C | 1.0227 | 15 mm³/s | 100% | 70% | Not required | 70°C / 2–4 hr |
+| **PETG-HS** (High Speed) | 230 / 230 °C ² | 65 / 65 °C | 1.0227 | 15 mm³/s | 100% | 70% | Not required | 70°C / 2–4 hr |
 | **PETG Translucent** | 230 / 230 °C | 65 / 65 °C | 1.0227 | 12 mm³/s | 100% | 70% | Not required | 70°C / 2–4 hr |
-| **PETG CF** | 240 / 250 °C | 70 / 70 °C | 1.0 | 12 mm³/s | 30–40% | 30% | Not required | 70°C / 4–6 hr |
+| **PETG-CF** (Carbon Fibre) | 240 / 250 °C | 70 / 70 °C | 1.0 | 12 mm³/s | 30–40% | 30% | Not required | 70°C / 4–6 hr |
 
 > ² **PETG-HS temperature note:** NuMakers Bambu Studio guide recommends 230°C as starting point for Bambu printers. The product spec sheet lists the material range as 240 ± 10°C — if you experience under-extrusion or poor layer bonding, raise to 240–245°C.
 
-> **PETG CF:** Hardened nozzle mandatory. Reduce fan speed — too much cooling causes layer delamination.
+> **PETG-CF:** Hardened nozzle mandatory. Reduce fan speed — too much cooling causes layer delamination.
 
 ---
 

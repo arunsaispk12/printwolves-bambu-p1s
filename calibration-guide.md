@@ -172,8 +172,9 @@ Bambu Studio uses **PA Profiles** to reuse calibration results:
 | PLA Silk / Dual-Tri Silk | 0.040 | 0.020 – 0.060 |
 | PLA CF | 0.025 | 0.015 – 0.040 |
 | PLA Wood / Glow / Starlight / Marble | 0.035 | 0.020 – 0.060 |
-| PETG-HS / PETG Translucent | 0.060 | 0.040 – 0.080 |
-| PETG CF | 0.040 | 0.030 – 0.060 |
+| PETG / PETG Translucent | 0.060 | 0.040 – 0.080 |
+| PETG-HS (High Speed) / PETG Translucent | 0.060 | 0.040 – 0.080 |
+| PETG-CF (Carbon Fibre) | 0.040 | 0.030 – 0.060 |
 | ABS | 0.040 | 0.030 – 0.060 |
 | ASA | 0.045 | 0.030 – 0.070 |
 
